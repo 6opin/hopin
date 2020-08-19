@@ -7,25 +7,57 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		760EF5FA24EC2E8E004BA9D6 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 760EF5F924EC2E8E004BA9D6 /* TestViewController.swift */; };
+		7622EDB424EBC0E90042A133 /* MyFriends.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7622EDB324EBC0E90042A133 /* MyFriends.swift */; };
+		7622EDB624EBC1030042A133 /* Trending.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7622EDB524EBC1030042A133 /* Trending.swift */; };
+		764CEFBA24E9A61100C1B2A9 /* SF-Pro-Rounded-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 764CEFB924E9A61100C1B2A9 /* SF-Pro-Rounded-Regular.ttf */; };
+		764CEFBC24E9D0CA00C1B2A9 /* Explore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764CEFBB24E9D0CA00C1B2A9 /* Explore.swift */; };
+		764CEFBF24E9D63E00C1B2A9 /* ExploreCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764CEFBE24E9D63E00C1B2A9 /* ExploreCollectionViewCell.swift */; };
 		76D515B024E932CA00782A90 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D515AF24E932CA00782A90 /* AppDelegate.swift */; };
 		76D515B224E932CA00782A90 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D515B124E932CA00782A90 /* SceneDelegate.swift */; };
-		76D515B424E932CA00782A90 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D515B324E932CA00782A90 /* ViewController.swift */; };
+		76D515B424E932CA00782A90 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D515B324E932CA00782A90 /* HomeViewController.swift */; };
 		76D515B724E932CA00782A90 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76D515B524E932CA00782A90 /* Main.storyboard */; };
 		76D515BA24E932CA00782A90 /* hopin_MVP.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 76D515B824E932CA00782A90 /* hopin_MVP.xcdatamodeld */; };
-		76D515BC24E932CB00782A90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76D515BB24E932CB00782A90 /* Assets.xcassets */; };
 		76D515BF24E932CB00782A90 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76D515BD24E932CB00782A90 /* LaunchScreen.storyboard */; };
+		76D515C724E942A300782A90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76D515C624E942A300782A90 /* Assets.xcassets */; };
+		76D515D124E9545000782A90 /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D515CC24E9545000782A90 /* CustomView.swift */; };
+		76D515D224E9545000782A90 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D515CD24E9545000782A90 /* CustomButton.swift */; };
+		76D515D324E9545000782A90 /* CustomColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D515CE24E9545000782A90 /* CustomColors.swift */; };
+		76D515D424E9545000782A90 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D515CF24E9545000782A90 /* CustomTextField.swift */; };
+		76D515D524E9545000782A90 /* CustomLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D515D024E9545000782A90 /* CustomLabel.swift */; };
+		76D515DC24E9A1A400782A90 /* Gilroy-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 76D515D724E9A1A400782A90 /* Gilroy-Medium.ttf */; };
+		76D515DD24E9A1A400782A90 /* Gilroy-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 76D515D824E9A1A400782A90 /* Gilroy-Bold.ttf */; };
+		76D515DE24E9A1A400782A90 /* Gilroy-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 76D515D924E9A1A400782A90 /* Gilroy-Light.ttf */; };
+		76D515DF24E9A1A400782A90 /* Gilroy-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 76D515DA24E9A1A400782A90 /* Gilroy-Regular.ttf */; };
+		76D515E024E9A1A400782A90 /* Gilroy-Heavy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 76D515DB24E9A1A400782A90 /* Gilroy-Heavy.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		760EF5F924EC2E8E004BA9D6 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		7622EDB324EBC0E90042A133 /* MyFriends.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFriends.swift; sourceTree = "<group>"; };
+		7622EDB524EBC1030042A133 /* Trending.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trending.swift; sourceTree = "<group>"; };
+		764CEFB924E9A61100C1B2A9 /* SF-Pro-Rounded-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Pro-Rounded-Regular.ttf"; sourceTree = "<group>"; };
+		764CEFBB24E9D0CA00C1B2A9 /* Explore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Explore.swift; sourceTree = "<group>"; };
+		764CEFBE24E9D63E00C1B2A9 /* ExploreCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreCollectionViewCell.swift; sourceTree = "<group>"; };
 		76D515AC24E932CA00782A90 /* hopin MVP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "hopin MVP.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		76D515AF24E932CA00782A90 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		76D515B124E932CA00782A90 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		76D515B324E932CA00782A90 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		76D515B324E932CA00782A90 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		76D515B624E932CA00782A90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		76D515B924E932CA00782A90 /* hopin_MVP.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = hopin_MVP.xcdatamodel; sourceTree = "<group>"; };
-		76D515BB24E932CB00782A90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		76D515BE24E932CB00782A90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		76D515C024E932CB00782A90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		76D515C624E942A300782A90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		76D515CC24E9545000782A90 /* CustomView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
+		76D515CD24E9545000782A90 /* CustomButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		76D515CE24E9545000782A90 /* CustomColors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomColors.swift; sourceTree = "<group>"; };
+		76D515CF24E9545000782A90 /* CustomTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		76D515D024E9545000782A90 /* CustomLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomLabel.swift; sourceTree = "<group>"; };
+		76D515D724E9A1A400782A90 /* Gilroy-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gilroy-Medium.ttf"; sourceTree = "<group>"; };
+		76D515D824E9A1A400782A90 /* Gilroy-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gilroy-Bold.ttf"; sourceTree = "<group>"; };
+		76D515D924E9A1A400782A90 /* Gilroy-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gilroy-Light.ttf"; sourceTree = "<group>"; };
+		76D515DA24E9A1A400782A90 /* Gilroy-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gilroy-Regular.ttf"; sourceTree = "<group>"; };
+		76D515DB24E9A1A400782A90 /* Gilroy-Heavy.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gilroy-Heavy.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +71,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7622EDB724EBC10D0042A133 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				764CEFBB24E9D0CA00C1B2A9 /* Explore.swift */,
+				7622EDB324EBC0E90042A133 /* MyFriends.swift */,
+				7622EDB524EBC1030042A133 /* Trending.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		7622EDB824EBE0DE0042A133 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				76D515B324E932CA00782A90 /* HomeViewController.swift */,
+				764CEFBE24E9D63E00C1B2A9 /* ExploreCollectionViewCell.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		7622EDB924EBE0F00042A133 /* AppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				76D515AF24E932CA00782A90 /* AppDelegate.swift */,
+				76D515B124E932CA00782A90 /* SceneDelegate.swift */,
+			);
+			path = AppDelegate;
+			sourceTree = "<group>";
+		};
+		764CEFBD24E9D31E00C1B2A9 /* Dummy Data */ = {
+			isa = PBXGroup;
+			children = (
+				7622EDB724EBC10D0042A133 /* Home */,
+			);
+			path = "Dummy Data";
+			sourceTree = "<group>";
+		};
 		76D515A324E932CA00782A90 = {
 			isa = PBXGroup;
 			children = (
@@ -58,16 +126,52 @@
 		76D515AE24E932CA00782A90 /* hopin MVP */ = {
 			isa = PBXGroup;
 			children = (
-				76D515AF24E932CA00782A90 /* AppDelegate.swift */,
-				76D515B124E932CA00782A90 /* SceneDelegate.swift */,
-				76D515B324E932CA00782A90 /* ViewController.swift */,
+				7622EDB924EBE0F00042A133 /* AppDelegate */,
+				76D515D624E9A18B00782A90 /* Fonts */,
+				7622EDB824EBE0DE0042A133 /* Home */,
+				764CEFBD24E9D31E00C1B2A9 /* Dummy Data */,
+				76D515CA24E9545000782A90 /* Views */,
+				76D515C624E942A300782A90 /* Assets.xcassets */,
 				76D515B524E932CA00782A90 /* Main.storyboard */,
-				76D515BB24E932CB00782A90 /* Assets.xcassets */,
 				76D515BD24E932CB00782A90 /* LaunchScreen.storyboard */,
 				76D515C024E932CB00782A90 /* Info.plist */,
 				76D515B824E932CA00782A90 /* hopin_MVP.xcdatamodeld */,
+				760EF5F924EC2E8E004BA9D6 /* TestViewController.swift */,
 			);
 			path = "hopin MVP";
+			sourceTree = "<group>";
+		};
+		76D515CA24E9545000782A90 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				76D515CB24E9545000782A90 /* CustomViews */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		76D515CB24E9545000782A90 /* CustomViews */ = {
+			isa = PBXGroup;
+			children = (
+				76D515CC24E9545000782A90 /* CustomView.swift */,
+				76D515CD24E9545000782A90 /* CustomButton.swift */,
+				76D515CE24E9545000782A90 /* CustomColors.swift */,
+				76D515CF24E9545000782A90 /* CustomTextField.swift */,
+				76D515D024E9545000782A90 /* CustomLabel.swift */,
+			);
+			path = CustomViews;
+			sourceTree = "<group>";
+		};
+		76D515D624E9A18B00782A90 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				764CEFB924E9A61100C1B2A9 /* SF-Pro-Rounded-Regular.ttf */,
+				76D515D824E9A1A400782A90 /* Gilroy-Bold.ttf */,
+				76D515DB24E9A1A400782A90 /* Gilroy-Heavy.ttf */,
+				76D515D924E9A1A400782A90 /* Gilroy-Light.ttf */,
+				76D515D724E9A1A400782A90 /* Gilroy-Medium.ttf */,
+				76D515DA24E9A1A400782A90 /* Gilroy-Regular.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,8 +231,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				764CEFBA24E9A61100C1B2A9 /* SF-Pro-Rounded-Regular.ttf in Resources */,
 				76D515BF24E932CB00782A90 /* LaunchScreen.storyboard in Resources */,
-				76D515BC24E932CB00782A90 /* Assets.xcassets in Resources */,
+				76D515DC24E9A1A400782A90 /* Gilroy-Medium.ttf in Resources */,
+				76D515DD24E9A1A400782A90 /* Gilroy-Bold.ttf in Resources */,
+				76D515DE24E9A1A400782A90 /* Gilroy-Light.ttf in Resources */,
+				76D515E024E9A1A400782A90 /* Gilroy-Heavy.ttf in Resources */,
+				76D515C724E942A300782A90 /* Assets.xcassets in Resources */,
+				76D515DF24E9A1A400782A90 /* Gilroy-Regular.ttf in Resources */,
 				76D515B724E932CA00782A90 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,9 +250,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76D515B424E932CA00782A90 /* ViewController.swift in Sources */,
+				760EF5FA24EC2E8E004BA9D6 /* TestViewController.swift in Sources */,
+				76D515D124E9545000782A90 /* CustomView.swift in Sources */,
+				76D515D524E9545000782A90 /* CustomLabel.swift in Sources */,
+				76D515B424E932CA00782A90 /* HomeViewController.swift in Sources */,
+				7622EDB424EBC0E90042A133 /* MyFriends.swift in Sources */,
+				7622EDB624EBC1030042A133 /* Trending.swift in Sources */,
+				76D515D324E9545000782A90 /* CustomColors.swift in Sources */,
+				76D515D224E9545000782A90 /* CustomButton.swift in Sources */,
+				76D515D424E9545000782A90 /* CustomTextField.swift in Sources */,
 				76D515B024E932CA00782A90 /* AppDelegate.swift in Sources */,
+				764CEFBF24E9D63E00C1B2A9 /* ExploreCollectionViewCell.swift in Sources */,
 				76D515BA24E932CA00782A90 /* hopin_MVP.xcdatamodeld in Sources */,
+				764CEFBC24E9D0CA00C1B2A9 /* Explore.swift in Sources */,
 				76D515B224E932CA00782A90 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -293,6 +413,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 68NL7XQ986;
 				INFOPLIST_FILE = "hopin MVP/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -300,7 +421,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.AhmedAfifi.hopin-MVP";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -312,6 +433,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 68NL7XQ986;
 				INFOPLIST_FILE = "hopin MVP/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -319,7 +441,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.AhmedAfifi.hopin-MVP";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
